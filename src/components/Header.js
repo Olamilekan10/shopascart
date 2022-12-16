@@ -25,9 +25,6 @@ function Header() {
             <li class="nav-item active">
                 <a class="nav-link" href="/">Become a Shopper</a>
             </li>   
-            <li class="nav-item">
-                <a className="nav-link" href="#">Whatsapp</a>
-            </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
             <a class="nav-link text-dark" href="/">Sign in</a>
