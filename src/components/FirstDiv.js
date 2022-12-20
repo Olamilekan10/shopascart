@@ -13,7 +13,7 @@ function FirstDiv() {
         <section id="home">
             <div className="container">
             <h1 style={{color:'#fff', fontWeight:'bold'}}>Get your groceries <br /> delivered same-day</h1>
-            <p style={{color:'#fff'}}>Order what you want from grocery stores and local market near you <br /> and get it delivered right to your door.</p>
+            <p style={{color:'#fff'}}>Order`NMDNDMS what you want from grocery stores and local market near you <br /> and get it delivered right to your door.</p>
             <input type="text" className='input pl-4' placeholder='Enter your address' />
             <i class="fa-solid fa-arrow-right"></i>
             </div>
