@@ -17,12 +17,9 @@ const ThirdDiv = () => {
                     </a>
                 </div>
                 <div className="google_app_play ml-2"> 
-                        <a href="/">
-                            <img src={googlePlay} alt="google_play_download" width="180" />
-                        </a>
-                        <li>
-                            
-                        </li>
+                    <a href="/">
+                        <img src={googlePlay} alt="google_play_download" width="180" />
+                    </a>
                 </div>
             </div>
         </div>
