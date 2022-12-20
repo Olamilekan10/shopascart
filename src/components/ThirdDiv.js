@@ -20,6 +20,9 @@ const ThirdDiv = () => {
                         <a href="/">
                             <img src={googlePlay} alt="google_play_download" width="180" />
                         </a>
+                        <li>
+                            
+                        </li>
                 </div>
             </div>
         </div>
