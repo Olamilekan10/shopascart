@@ -32,6 +32,7 @@ const FourthDiv = () => {
                 Deliveries under ₦5000 with or without a Shopascart+ membership will incur a ₦1800 fee and applicable taxes and service fees per order.
             </p>
         </div>
+        <a href=""></a>
 
         <div className='faqs'>
             <h1 className="Home_tag_text_1 text-center">FAQ</h1>
